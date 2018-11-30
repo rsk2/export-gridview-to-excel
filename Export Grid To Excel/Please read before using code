@@ -1,0 +1,9 @@
+DESCRIPTION:
+In TestPage.aspx.vb, within cmdExport_Click routine we have the code to export an ASP.NET grid to Excel using the Microsoft Office Interop dll
+This sample code over comes following limitations of using the Interop dll:
+1. RegisterForEventValidation can only be called during Render https://stackoverflow.com/questions/7228718/registerforeventvalidation-can-only-be-called-during-render
+2. GridView must be placed inside a form tag with runat=“server” even after the GridView is within a form tag https://stackoverflow.com/questions/6343630/gridview-must-be-placed-inside-a-form-tag-with-runat-server-even-after-the-gri
+
+
+
+

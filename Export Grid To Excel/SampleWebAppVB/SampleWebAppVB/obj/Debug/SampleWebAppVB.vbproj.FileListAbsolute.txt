@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\SampleWebAppVB\SampleWebAppVB\bin\SampleWebAppVB.dll.config
+c:\users\user\documents\visual studio 2013\Projects\SampleWebAppVB\SampleWebAppVB\bin\SampleWebAppVB.dll
+c:\users\user\documents\visual studio 2013\Projects\SampleWebAppVB\SampleWebAppVB\bin\SampleWebAppVB.pdb
+c:\users\user\documents\visual studio 2013\Projects\SampleWebAppVB\SampleWebAppVB\bin\SampleWebAppVB.xml
+c:\users\user\documents\visual studio 2013\Projects\SampleWebAppVB\SampleWebAppVB\obj\Debug\SampleWebAppVB.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\SampleWebAppVB\SampleWebAppVB\obj\Debug\SampleWebAppVB.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\SampleWebAppVB\SampleWebAppVB\obj\Debug\SampleWebAppVB.dll
+c:\users\user\documents\visual studio 2013\Projects\SampleWebAppVB\SampleWebAppVB\obj\Debug\SampleWebAppVB.xml
+c:\users\user\documents\visual studio 2013\Projects\SampleWebAppVB\SampleWebAppVB\obj\Debug\SampleWebAppVB.pdb
